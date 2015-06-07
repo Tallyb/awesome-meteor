@@ -3,6 +3,7 @@
 A curated list of awesome Meteor Packages, libraries and software.
 
 - [Awesome Meteor](#awesome-meteor)
+    - [Getting Started](#getting-started)
     - [Collections](#collections)
     - [Forms and Templates](#forms-and-templates)
     - [Users and Authentication](#users-and-authentication)
@@ -28,6 +29,13 @@ A curated list of awesome Meteor Packages, libraries and software.
 - [Contributing](#contributing)
 
 - - -
+
+
+## Getting Started
+
+*Where to start*
+
+* [Official Meteor tutorial](https://www.meteor.com/try)
 
 ## Collections
 
