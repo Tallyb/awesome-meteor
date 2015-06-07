@@ -100,6 +100,13 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
 
+## Degugging Tools
+
+*Degugging Tools*
+
+* [msavin:mongol](https://github.com/msavin/Mongol/) - Visual Editing Tool for Meteor for MongoDB Collections.
+* [msavin:jetsetter](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
+
 ## Package Managers
 
 *Using package managers in Meteor*
