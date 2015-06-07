@@ -17,6 +17,7 @@ A curated list of awesome Meteor Packages, libraries and software.
     - [Testing](#testing)
     - [SEO](#seo)
     - [Analytics](#analytics)
+    - [ES6](#ES6)
     - [Payments](#payments)
     - [Deployement Tools](#deployement-tools)
     - [FrontEnd Frameworks](#ui-frameworks)
@@ -27,6 +28,7 @@ A curated list of awesome Meteor Packages, libraries and software.
     - [Websites](#websites)
     - [Weekly](#weekly)
     - [Twitter](#twitter)
+    - [Job Boards](#job-boards)
 - [Contributing](#contributing)
 
 - - -
@@ -37,6 +39,7 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Where to start*
 
 * [Official Meteor tutorial](https://www.meteor.com/try)
+* [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
 
 ## Collections
 
@@ -99,6 +102,8 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Mobile Developement*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
+* [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
+* [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
 
 ## Analytics
 
@@ -134,6 +139,7 @@ Where to discover new Meteor things.
 * [Official Meteor](http://www.meteor.com) - Official website.
 * [Atmosphere](http://atmospherejs.com/) - A catalog for Meteor packages, resources and tools.
 * [Bullet Proof Meteor](https://bulletproofmeteor.com/) - Online course for Meteor performance in production
+* [Meteor-Cookbook](https://github.com/awatson1978/meteor-cookbook) - Meteor Cookbook
 
 ## Weekly
 
