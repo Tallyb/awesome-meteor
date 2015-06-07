@@ -22,6 +22,7 @@ A curated list of awesome Meteor Packages, libraries and software.
     - [FrontEnd Frameworks](#ui-frameworks)
     - [Package managers](#package-managers)
     - [Internationalization](#internationalization)
+    - [Scaffolding](#scaffolding)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Weekly](#weekly)
@@ -93,12 +94,17 @@ A curated list of awesome Meteor Packages, libraries and software.
 
 * [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads.
 
-
 ## Mobile
 
 *Mobile Developement*
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
+
+## Analytics
+
+*Analytics*
+
+* [okgrow:analytics](https://github.com/okgrow/analytics/) - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
 
 ## Degugging Tools
 
@@ -112,6 +118,12 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Using package managers in Meteor*
 
 * [meteorhacks:npm](https://github.com/meteorhacks/npm/) - Use Npm Modules with Your Meteor App.
+
+## Scaffolding
+
+*Scaffolding*
+
+* [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 # Resources
 
