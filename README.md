@@ -67,10 +67,7 @@ A curated list of awesome Meteor Packages, libraries and software.
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) - A client and server side router designed specifically for Meteor.
-* [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) – Run mocha tests within the Meteor framework.
-* [sanjo:jasmine](https://github.com/Sanjo/meteor-jasmine/) - Run Jasmine tests for all your Meteor code.
-* [xolvio:cucumber](https://github.com/xolvio/meteor-cucumber) - Reactive BDD for Meteor using Cucumber.js and Velocity.
-* [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
+* [meteorhacks:flow-router](https://github.com/meteorhacks/flow-router) - Client Side Router for Meteor.
 
 ## Testing
 
