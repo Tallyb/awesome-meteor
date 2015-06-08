@@ -143,18 +143,9 @@ Where to discover new Meteor things.
 
 ## Weekly
 
-* [Pycoder's Weekly](http://pycoders.com/)
-* [Python Weekly](http://www.pythonweekly.com/)
-* [Import Python Newsletter](http://importpython.com/newsletter/)
 
 ## Twitter
 
-* [@pypi](https://twitter.com/pypi)
-* [@planetpython](https://twitter.com/planetpython)
-* [@getpy](https://twitter.com/getpy)
-* [@pycoders](https://twitter.com/pycoders)
-* [@PythonWeekly](https://twitter.com/PythonWeekly)
-* [@pythontrending](https://twitter.com/pythontrending)
 
 # [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 
